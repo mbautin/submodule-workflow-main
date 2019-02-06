@@ -1,0 +1,3 @@
+[submodule "submodule-workflow-submodule1"]
+	path = submodule-workflow-submodule1
+	url = git@github.com:mbautin/submodule-workflow-submodule1.git
